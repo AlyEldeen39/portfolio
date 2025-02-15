@@ -103,13 +103,13 @@ nav ul a {
 }
 
 .hero .social-links .facebook {
-  background-color: #1877f2;
-  padding: 10px 10px;
+  color: #1877f2;
+  font-weight: bold;
 }
 
 .hero .social-links .instagram {
-  background-color: #833ab4;
-  padding: 10px 10px;
+  color: #833ab4;
+  font-weight: bold;
 }
 
 .hero .social-links a {
